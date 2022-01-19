@@ -11,7 +11,8 @@ export default StyleSheet.create({
         borderColor: '#ddd',
         borderRadius: 4,
         elevation: 4,
-        backgroundColor: '#8EE2ED'
+        backgroundColor: '#8EE2ED',
+        fontFamily: 'OpenSans-VariableFont_wdth,wght'
     },
     text: {
         fontSize: 18,
